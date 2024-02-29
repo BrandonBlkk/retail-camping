@@ -1134,6 +1134,7 @@ blockquote {
     }
     #hamitems {
         display: block;
+	transition: 0.5s ease-in-out;
     }
     #hamitems a {
         width: 50%;
